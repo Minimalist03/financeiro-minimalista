@@ -1,0 +1,3 @@
+[submodule "backend"]
+    path = backend
+    url = https://github.com/Minimalist03/financeiro-minimalista/commit/43027a4e2b934da348bfb3792c681e287a94efd7
